@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "china-time": "^0.12.3",
+    "express": "^4.18.2",
+    "graceful-fs": "4.2.6",
+    "mysql": "^2.18.1",
+    "socket.io": "^4.6.1",
+    "socket.io.express": "^0.0.1",
+    "webshot": "^0.18.0"
+  }
+}
